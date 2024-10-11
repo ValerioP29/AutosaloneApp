@@ -14,7 +14,7 @@ export class FiatComponent {
       this.cars();
   }
   async cars() {
-    const res = await fetch('db.json'); // Controlla che questo percorso sia corretto
+    const res = await fetch('db.json');
     const response = await res.json();
     this.auto = response.filter((auto: IAuto) => auto.brand === 'Fiat');
 
