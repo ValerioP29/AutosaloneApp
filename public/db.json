@@ -1,0 +1,56 @@
+[
+    {
+        "brand": "Fiat",
+        "brandLogo": "https://www.brandforum.it/wp-content/uploads/2019/03/40820191021015937.jpg",
+        "model": "500L",
+        "modelImage": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2017/05/30/Motori24/ImmaginiWeb/Ritagli/170522_Fiat_New-500L_09-k86H--835x437@IlSole24Ore-Web.jpg?r=810x425",
+        "year": 2015,
+        "price": 7500,
+        "available": false
+    },
+    {
+        "brand": "Fiat",
+        "brandLogo": "https://www.brandforum.it/wp-content/uploads/2019/03/40820191021015937.jpg",
+        "model": "500 Abarth",
+        "modelImage": "https://cdn.drivek.com/configurator-imgs/cars/it/800/FIAT/500-HYBRID/39231_BERLINA-3-PORTE/fiat-500-hybrid-2020-front-angle-2.jpg",
+        "year": 2010,
+        "price": 3500,
+        "available": true
+    },
+    {
+        "brand": "Ford",
+        "brandLogo": "https://www.salvatorepumo.it/wp-content/uploads/2021/07/logo-ford-01.png",
+        "model": "Taurus",
+        "modelImage": "https://c7.alamy.com/compit/bew57x/2010-ford-taurus-sel-in-argento-driver-profilo-laterale-bew57x.jpg",
+        "year": 2009,
+        "price": 5200,
+        "available": false
+    },
+    {
+        "brand": "Ford",
+        "brandLogo": "https://www.salvatorepumo.it/wp-content/uploads/2021/07/logo-ford-01.png",
+        "model": "Focus",
+        "modelImage": "https://www.ford.it/content/dam/guxeu/rhd/central/cars/2021-focus/launch/gallery/exterior/ford-focus-mca-c519-eu-STL_03_C519_Focus_Ext_Rear_3_4_Static-16x9-2160x1215_gt.jpg.renditions.small.jpeg",
+        "year": 2014,
+        "price": 9700,
+        "available": true
+    },
+    {
+        "brand": "Audi",
+        "brandLogo": "https://uploads.audi-mediacenter.com/system/production/media/116125/images/74022a65b478f7b3a8e0bf8ba70994f66fde5dd7/A231415_web_960.jpg?1698528985",
+        "model": "A3",
+        "modelImage": "https://cdn.drivek.com/configurator-imgs/cars/it/Original/AUDI/A3-SPORTBACK/44134_HATCHBACK-5-DOORS/audi-a3-sportback-front-view.jpg",
+        "year": 2012,
+        "price": 4300,
+        "available": true
+    },
+    {
+        "brand": "Audi",
+        "brandLogo": "https://uploads.audi-mediacenter.com/system/production/media/116125/images/74022a65b478f7b3a8e0bf8ba70994f66fde5dd7/A231415_web_960.jpg?1698528985",
+        "model": "Q7",
+        "modelImage": "https://cdn.drivek.com/configurator-imgs/cars/it/Original/AUDI/Q7/43953_SUV-5-DOORS/audi-q7-front-view.jpg",
+        "year": 2020,
+        "price": 41700,
+        "available": false
+    }
+]
